@@ -1,4 +1,4 @@
-I did Analysis on Insurance Claim : Demographic and Health, I made ETL(Extract, Tranform, Load) process using Cloud Function, Datawarehouse as BigQuery and used Tableau as BI tool.
+I did Analysis on Insurance Claim : Demographic and Health, ETL(Extract, Tranform, Load) process using Cloud Function, Datawarehouse as BigQuery and Tableau as BI tool.
 
 Created three bucket those are : Raw, Cleansed & Curated 
 Raw: have to upload the csv file (https://www.kaggle.com/datasets/thedevastator/insurance-claim-analysis-demographic-and-health)
